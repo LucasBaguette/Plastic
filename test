@@ -1,0 +1,5 @@
+export_file_url = 'https://www.dropbox.com/s/quqno0h9xdvb5ao/modelpouetpouet.pth?raw=1'
+expot_file_name = 'modelpouetpouet.pkl'
+
+classes = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
+path = Path(_file_).parent
